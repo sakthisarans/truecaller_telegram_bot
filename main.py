@@ -1,7 +1,7 @@
 import truecallerpy,time
 import telebot 
 
-botkey='6425795979:AAF9BE-PoYNGNwnWywEitjccrEGQEfenYXY'
+botkey='********************************'
 key='a1i0E--h2AgmFVBVLxGy4mvzItlPtBbdfSknT1nD069TUKg-Dt6ubMnIU6uLGEqE'
 
 bot=telebot.TeleBot(botkey)
